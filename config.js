@@ -1,7 +1,7 @@
 /*** USE THIS FILE TO SET OPTIONS ***/
 
 setParams({
-    graphFile : "Gimbatov_Graph.GEXF",
+    graphFile : "Gimbatov_Graph.gexf",
         /*
             The GEXF file to show ! -- can be overriden by adding
             a hash to the document location, e.g. index.html#celegans.gexf
